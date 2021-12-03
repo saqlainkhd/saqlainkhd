@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Laravel and NodeJS
 - 🌱 I’m currently learning ReactJS
-- 📫 How to reach me: Twitter - @saqlainkhd
+- 📫 How to reach me: [Twitter - @saqlainkhd]{https://twitter.com/saqlainkhd}
 <!-- 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
