@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on Laravel and NodeJS
 - 🌱 I’m currently learning more about ReactJS.
-- 💬 Ask me about Flutter or any tech-related stuff.
+- 💬 Ask me about any tech-related stuff.
 - 📫 How to reach me: [Twitter - @saqlainkhd](https://twitter.com/saqlainkhd)
 - 😄 Pronouns: He/His
 
