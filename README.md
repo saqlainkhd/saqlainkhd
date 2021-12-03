@@ -9,15 +9,6 @@
 <a href="https://github.com/saqlainkhd">
   <img align="left" alt="saqlain Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<!-- <a href="https://instagram.com/codepur_ka_superhero/">
-  <img align="left" alt="saqlain Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/imthepk/">
-  <img align="left" alt="saqlain Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-</a>
-<a href="https://www.youtube.com/mtechviral/">
-  <img align="left" alt="saqlain Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
-</a> -->
 
 <br/>
 <br/>
@@ -35,7 +26,7 @@
 
 
 **Languages and Tools:**  
-
+<p>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg"></code>
 <code><img height="30" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"></code>
@@ -44,7 +35,7 @@
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"></code>    
 <code><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"></code>    
-
+</p>
 
 
 <div align="center">
