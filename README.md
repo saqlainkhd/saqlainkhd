@@ -1,12 +1,12 @@
 ## Hello, I'm [Saqlain Khalid!](https://www.linkedin.com/in/saqlainkhd) 👋
 
-<a href="https://twitter.com/saqlainkhd">
+<a target="_blank" href="https://twitter.com/saqlainkhd">
   <img align="left" alt="Saqlain Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://linkedin.com/in/saqlainkhd">
+<a target="_blank" href="https://linkedin.com/in/saqlainkhd">
   <img align="left" alt="saqlain Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/saqlainkhd">
+<a target="_blank" href="https://github.com/saqlainkhd">
   <img align="left" alt="saqlain Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
