@@ -27,14 +27,14 @@
 
 **Languages and Tools:**  
 <p>
-<img align="left" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
-<img align="left" height="30" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg">
-<img align="left" height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="left" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg">
-<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg">
-<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">    
-<img align="left" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">   
+<img align="left" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="left" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg">
+<img align="left" height="35" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg">
+<img align="left" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+<img align="left" height="35" width="80" src="https://cdn.worldvectorlogo.com/logos/mongodb.svg">
+<img align="left" height="35" width="80" src="https://cdn.worldvectorlogo.com/logos/nodejs.svg"> 
+<img align="left" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg">
+<img align="left" height="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">   
 </p>
 
 <br><br>
